@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**avillamayordelgado/avillamayordelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Antonio Villamayor
 
-Here are some ideas to get you started:
+🎯 **Analista de Datos | Futuro Data Engineer**  
+📍 España | 💼 Actualmente en El Corte Inglés  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mí
+
+Soy un apasionado del análisis de datos con experiencia en la creación de dashboards e informes interactivos usando **Power BI**, ayudando a empresas a tomar decisiones basadas en datos. Actualmente me estoy formando como **Data Engineer**, explorando herramientas como **GitHub, Python, SQL, AWS y más**.
+
+---
+
+## 🛠️ Tech Stack
+
+- 📊 Power BI, DAX, Power Query  
+- 🐍 Python (Pandas, Numpy, Matplotlib)  
+- 🛢️ SQL (PostgreSQL, SQL Server, SAP HANA)  
+- ☁️ AWS (en formación: S3, Lambda, Glue, etc.)  
+- 🔄 ETL, automatización con Power Automate  
+- ⚙️ Git, GitHub (repositorios, ramas, pull requests)
+
+---
+
+## 📂 Qué encontrarás aquí
+
+🔧 Proyectos prácticos de análisis de datos  
+📈 Dashboards interactivos en Power BI  
+📚 Ejercicios de SQL y Python  
+🧠 Casos de uso aplicados a negocio  
+🚀 Experimentos de aprendizaje como Data Engineer
+
+---
+
+## 📬 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antonio-villamayor-delgado/)  
+✉️ antoniovillamayordelgado@gmail.com
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!  
