@@ -14,6 +14,7 @@ Soy un apasionado del análisis de datos con experiencia en la creación de dash
 ---
 
 ## 🛠️ Tech Stack
+..........
 
 - 📊 Power BI, DAX, Power Query  
 - 🐍 Python (Pandas, Numpy, Matplotlib)  
@@ -33,7 +34,10 @@ Soy un apasionado del análisis de datos con experiencia en la creación de dash
 🚀 Experimentos de aprendizaje como Data Engineer
 
 ---
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 ## 📬 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antonio-villamayor-delgado/)  
