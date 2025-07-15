@@ -38,11 +38,9 @@ Soy un apasionado del análisis de datos con experiencia en la creación de dash
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [avillamayordelgado/data-engineer-bootcamp](https://github.com/avillamayordelgado/data-engineer-bootcamp)<br>
 2. 📔 Created new repository [avillamayordelgado/data-engineer-bootcamp](https://github.com/avillamayordelgado/data-engineer-bootcamp)<br>
-3. 🔱 Forked [avillamayordelgado/data-engineer-handbook](https://github.com/avillamayordelgado/data-engineer-handbook) from [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-4. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 15th, 2025, 1:15:00 AM
+Last Updated: Tuesday, July 15th, 2025, 12:30:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## 📬 Conecta conmigo
 
